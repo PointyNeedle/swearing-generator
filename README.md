@@ -1,2 +1,2 @@
 # swearing-generator
-A small swearing generator, needs a bigger database
+A small and simple swearing generator
